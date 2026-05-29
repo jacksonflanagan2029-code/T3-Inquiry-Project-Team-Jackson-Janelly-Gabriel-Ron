@@ -1,0 +1,9 @@
+.nav-style {
+    display: flex;
+    flex-direction: row;
+}
+
+.main-style{
+    display: flex;
+    flex-direction: row;
+}
