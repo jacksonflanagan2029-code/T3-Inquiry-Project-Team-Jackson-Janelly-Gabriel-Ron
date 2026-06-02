@@ -1,0 +1,14 @@
+.row{
+    flex-direction: row;
+}
+
+.column{
+    flex-direction: column;
+}
+
+.main{
+    width: 100vw;
+    height: 60vh;
+    border-top: 2px black solid;
+    border-bottom: 2px black solid;
+}
