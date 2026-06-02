@@ -11,6 +11,9 @@
     height: 60vh;
     border-top: 2px black solid;
     border-bottom: 2px black solid;
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
 }
 
 .sub-img{
@@ -24,8 +27,16 @@
 
 .apart{
     justify-content: space-around;
+    display: flex;
 }
 
 main{
     display: flex;
+    flex-direction: column;
+}
+
+.header{
+    width: 100vw;
+    height: 20vh;
+    
 }
