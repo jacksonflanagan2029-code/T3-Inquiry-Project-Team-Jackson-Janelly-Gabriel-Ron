@@ -6,9 +6,26 @@
     flex-direction: column;
 }
 
-.main{
+.hero{
     width: 100vw;
     height: 60vh;
     border-top: 2px black solid;
     border-bottom: 2px black solid;
+}
+
+.sub-img{
+    width: 100vw;
+    height: 20vh;
+}
+
+.flex{
+    display: flex;
+}
+
+.apart{
+    justify-content: space-around;
+}
+
+main{
+    display: flex;
 }
