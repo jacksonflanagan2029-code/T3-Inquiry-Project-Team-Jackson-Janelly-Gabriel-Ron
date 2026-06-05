@@ -25,10 +25,7 @@
     display: flex;
 }
 
-.apart{
-    justify-content: space-around;
-    display: flex;
-}
+
 
 main{
     display: flex;
@@ -39,4 +36,19 @@ main{
     width: 100vw;
     height: 20vh;
     
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 40px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.checkout{
+    padding-top: 30px;
 }
