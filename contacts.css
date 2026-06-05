@@ -1,0 +1,19 @@
+.contact-style-1{
+    hieght: 30px;
+    width:100px;
+    background-color: grey;
+    color:aliceblue
+    display:flex;
+    flex-direction:row;
+    justify-content: flex-start;
+}
+
+.contact-style-2{
+    hieght:30px;
+    width:100px;
+    background-color: darkblue ;
+    color:white;
+    display: flex;
+    flex-direction:row-reverse
+    justify-content:flex-end;
+}
